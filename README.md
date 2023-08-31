@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Erlang](https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=900d09)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-9867c5?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-808045?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-808045?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
 ![Pascal](https://img.shields.io/badge/Pascal-0E4C92?style=for-the-badge&logo=pascaln&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
