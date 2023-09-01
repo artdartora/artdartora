@@ -1,5 +1,5 @@
 
-<p align="center">Arthur Roberto Dartora. <br><br> "Em terra de programador, o céu é o limite".</p>&nbsp;
+<p align="center">Arthur Roberto Dartora. <br><br> "Em terra de programador, o céu é o limite".<br><br> Backend Developer</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zettabytess&theme=radical&mode=weekly" />
