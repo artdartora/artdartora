@@ -40,7 +40,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-311432?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-990f02?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
-![Perl](https://img.shields.io/badge/Perl-FFFFFF?style=for-the-badge&logo=Perl&logoColor=lilac)&nbsp;
+![Perl](https://img.shields.io/badge/Perl-gray?style=for-the-badge&logo=Perl&logoColor=purple)&nbsp;
 
 #### Databases:
 
