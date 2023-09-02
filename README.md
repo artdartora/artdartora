@@ -54,7 +54,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-000080?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/ArchLinux-3944bc?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/MacOS-E95420?style=for-the-badge&logo=macos&logoColor=white)&nbsp;
+![MacOS](https://img.shields.io/badge/Mac OS-E95420?style=for-the-badge&logo=macos&logoColor=white)&nbsp;
 &nbsp;
 &nbsp;
 
