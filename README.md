@@ -23,6 +23,7 @@
 ![PHP](https://img.shields.io/badge/PHP-808045?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
 ![Pascal](https://img.shields.io/badge/Pascal-0E4C92?style=for-the-badge&logo=pascaln&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
