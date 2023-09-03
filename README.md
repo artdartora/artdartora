@@ -24,6 +24,7 @@
 ![Pascal](https://img.shields.io/badge/Pascal-0E4C92?style=for-the-badge&logo=pascaln&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
+![Haskell](https://img.shields.io/badge/Haskell-gray?style=for-the-badge&logo=haskell&logoColor=purple)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -33,6 +34,9 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
+![Go](https://img.shields.io/badge/Go-white?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
+![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
 
 
 #### Studying in this moment:
@@ -41,6 +45,8 @@
 ![Swift](https://img.shields.io/badge/Swift-311432?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-990f02?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Perl](https://img.shields.io/badge/Perl-gray?style=for-the-badge&logo=Perl&logoColor=purple)&nbsp;
+![Julia](https://img.shields.io/badge/Julia-c8a2c8?style=for-the-badge&logo=julia&logoColor=e3242b)&nbsp;
+
 
 #### Databases:
 
@@ -51,7 +57,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-000080?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/ArchLinux-3944bc?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=macos&logoColor=blue)&nbsp;
