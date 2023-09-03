@@ -21,7 +21,6 @@
 ![Erlang](https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=900d09)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-9867c5?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-808045?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
-![Pascal](https://img.shields.io/badge/Pascal-0E4C92?style=for-the-badge&logo=pascaln&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-gray?style=for-the-badge&logo=haskell&logoColor=purple)&nbsp;
