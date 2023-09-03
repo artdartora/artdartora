@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Erlang](https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=900d09)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-9867c5?style=for-the-badge&logo=kotlin&logoColor=purple)&nbsp;
-![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=turquoise)&nbsp;
+![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=green)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-808045?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-007872?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
@@ -56,7 +56,11 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-fc6600?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-000080?style=for-the-badge&logo=mysql&logoColor=orange)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring.io-239120?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
+
+
 
 #### Workstation Tools:
 
