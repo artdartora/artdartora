@@ -2,8 +2,8 @@
 <p align="center">Arthur Roberto Dartora. <br><br> "Em terra de programador, o céu é o limite".<br><br> Backend Developer</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=artdartoras&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-artdartoras.vercel.app/api/top-langs/?username=artdartoras&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=artdartora&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-artdartora.vercel.app/api/top-langs/?username=artdartora&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
