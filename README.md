@@ -67,7 +67,7 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-black?style=for-the-badge&logo=kalilinux&logoColor=cyan)&nbsp;
-![Arch Linux](https://img.shields.io/badge/ArchLinux-3944bc?style=for-the-badge&logo=archlinux&logoColor=white)&nbsp;
+![Arch Linux](https://img.shields.io/badge/ArchLinux-3944bc?style=for-the-badge&logo=archlinux&logoColor=turquoise)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=macos&logoColor=blue)&nbsp;
 &nbsp;
 &nbsp;
