@@ -22,6 +22,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-9867c5?style=for-the-badge&logo=kotlin&logoColor=purple)&nbsp;
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=green)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Assembly](https://img.shields.io/badge/Assembly-276DC3?style=for-the-badge&logo=assembly&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-808045?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-007872?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![Raspberry](https://img.shields.io/badge/Raspberry_Pi-white?style=for-the-badge&logo=raspberrypi&logoColor=a91b0d)&nbsp;
