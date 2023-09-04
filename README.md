@@ -69,6 +69,7 @@
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-black?style=for-the-badge&logo=kalilinux&logoColor=cyan)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/ArchLinux-3944bc?style=for-the-badge&logo=archlinux&logoColor=turquoise)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=macos&logoColor=blue)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-3944bc?style=for-the-badge&logo=windows&logoColor=turquoise)&nbsp;
 &nbsp;
 &nbsp;
 
