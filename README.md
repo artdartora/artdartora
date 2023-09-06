@@ -3,7 +3,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=artdartora&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-artdartora.vercel.app/api/top-langs/?username=artdartora&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-how.arthxr.vercel.app/api/top-langs/?username=how.arthxr&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -68,6 +68,7 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-black?style=for-the-badge&logo=kalilinux&logoColor=cyan)&nbsp;
+![Debian](https://img.shields.io/badge/Debian-fffdd0?style=for-the-badge&logo=debian&logoColor=d31a38)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/ArchLinux-3944bc?style=for-the-badge&logo=archlinux&logoColor=turquoise)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-131e3a?style=for-the-badge&logo=eclipse&logoColor=orange)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=macos&logoColor=blue)&nbsp;
@@ -78,5 +79,5 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/arthur.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/how.arthxr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
