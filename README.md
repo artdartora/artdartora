@@ -18,6 +18,8 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Erlang](https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=900d09)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-9867c5?style=for-the-badge&logo=kotlin&logoColor=purple)&nbsp;
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=green)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![FORTRAN](https://img.shields.io/badge/FORTRAN-9867c5?style=for-the-badge&logo=fortran&logoColor=white)&nbsp;
@@ -27,6 +29,7 @@
 ![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-gray?style=for-the-badge&logo=haskell&logoColor=purple)&nbsp;
 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
@@ -34,6 +37,10 @@
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-gray?style=for-the-badge&logo=r&logoColor=007ACC)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
+![Go](https://img.shields.io/badge/Go-white?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
+![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=Shell&logoColor=orange)&nbsp;
 
 
@@ -41,6 +48,10 @@
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-311432?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-990f02?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
+![Perl](https://img.shields.io/badge/Perl-gray?style=for-the-badge&logo=Perl&logoColor=purple)&nbsp;
+![Julia](https://img.shields.io/badge/Julia-c8a2c8?style=for-the-badge&logo=julia&logoColor=e3242b)&nbsp;
+
 
 #### Databases:
 
@@ -68,5 +79,5 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/arthurdartora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/how.arthxr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
