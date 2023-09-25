@@ -1,4 +1,3 @@
-
 <p align="center">Arthur Roberto Dartora. <br><br> "Em terra de programador, o céu é o limite".<br><br> Backend Developer</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
