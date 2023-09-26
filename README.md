@@ -38,6 +38,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
+![F#](https://img.shields.io/badge/F%23-41424c?style=for-the-badge&logo=Fsharp&logoColor=52b2bf)&nbsp;
 ![Go](https://img.shields.io/badge/Go-white?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
 ![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=Shell&logoColor=orange)&nbsp;
