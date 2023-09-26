@@ -1,8 +1,8 @@
-<p align="center">Arthur Roberto Dartora. <br><br> "Em terra de programador, o céu é o limite".<br><br> Backend Developer</p>&nbsp;
+<p align="center">Arthur Roberto Dartora. <br><br> "Quanto mais silencioso você fica, mais você é capaz de ouvir".<br><br> Backend Developer</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fsociety1001&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-how.arthxr.vercel.app/api/top-langs/?username=how.arthxr&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-how.arthxr.vercel.app/api/top-langs/?username=fsociety1001&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
