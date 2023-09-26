@@ -65,7 +65,7 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=virtualstudiocode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-black?style=for-the-badge&logo=kalilinux&logoColor=cyan)&nbsp;
 ![Debian](https://img.shields.io/badge/Debian-fffdd0?style=for-the-badge&logo=debian&logoColor=d31a38)&nbsp;
