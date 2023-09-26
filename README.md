@@ -21,6 +21,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-9867c5?style=for-the-badge&logo=kotlin&logoColor=purple)&nbsp;
 ![C++](https://img.shields.io/badge/C++-fbfcf8?style=for-the-badge&logo=cplusplus&logoColor=green)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-4683b7?style=for-the-badge&logo=css3&logoColor=87cdee)&nbsp;
 ![FORTRAN](https://img.shields.io/badge/FORTRAN-9867c5?style=for-the-badge&logo=fortran&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-808045?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-007872?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
@@ -47,7 +48,7 @@
 #### Studying in this moment:
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-311432?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-f28500?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-990f02?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Perl](https://img.shields.io/badge/Perl-gray?style=for-the-badge&logo=Perl&logoColor=purple)&nbsp;
 ![Julia](https://img.shields.io/badge/Julia-c8a2c8?style=for-the-badge&logo=julia&logoColor=e3242b)&nbsp;
