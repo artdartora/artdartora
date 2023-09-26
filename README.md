@@ -19,13 +19,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Erlang](https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=900d09)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-9867c5?style=for-the-badge&logo=kotlin&logoColor=purple)&nbsp;
-![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=green)&nbsp;
+![C++](https://img.shields.io/badge/C++-fbfcf8?style=for-the-badge&logo=cplusplus&logoColor=green)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![FORTRAN](https://img.shields.io/badge/FORTRAN-9867c5?style=for-the-badge&logo=fortran&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-808045?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-007872?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
-![Raspberry](https://img.shields.io/badge/Raspberry_Pi-white?style=for-the-badge&logo=raspberrypi&logoColor=a91b0d)&nbsp;
-![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
+![Raspberry](https://img.shields.io/badge/Raspberry_Pi-fbfcf8?style=for-the-badge&logo=raspberrypi&logoColor=a91b0d)&nbsp;
+![Lua](https://img.shields.io/badge/Lua-fbfcf8?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-gray?style=for-the-badge&logo=haskell&logoColor=purple)&nbsp;
 
 
@@ -39,7 +39,7 @@
 ![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
 ![F#](https://img.shields.io/badge/F%23-41424c?style=for-the-badge&logo=Fsharp&logoColor=52b2bf)&nbsp;
-![Go](https://img.shields.io/badge/Go-white?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
+![Go](https://img.shields.io/badge/Go-add8e6?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
 ![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=Shell&logoColor=orange)&nbsp;
 
