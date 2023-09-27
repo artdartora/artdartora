@@ -27,6 +27,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-007872?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![Raspberry](https://img.shields.io/badge/Raspberry_Pi-fbfcf8?style=for-the-badge&logo=raspberrypi&logoColor=a91b0d)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-fbfcf8?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
+![WebAssembly](https://img.shields.io/badge/WebAssembly-8e82fe?style=for-the-badge&logo=webassembly&logoColor=white)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-gray?style=for-the-badge&logo=haskell&logoColor=purple)&nbsp;
 
 
@@ -36,6 +37,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-gray?style=for-the-badge&logo=r&logoColor=007ACC)&nbsp;
+![Crystal](https://img.shields.io/badge/Crystal-6b6757?style=for-the-badge&logo=crystal&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
@@ -74,7 +76,7 @@
 ![Debian](https://img.shields.io/badge/Debian-fffdd0?style=for-the-badge&logo=debian&logoColor=d31a38)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/ArchLinux-3944bc?style=for-the-badge&logo=archlinux&logoColor=turquoise)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-131e3a?style=for-the-badge&logo=eclipse&logoColor=orange)&nbsp;
-![Zig](https://img.shields.io/badge/Zig-131e3a?style=for-the-badge&logo=e&logoColor=orange)&nbsp;
+![Zig](https://img.shields.io/badge/Zig-f28500?style=for-the-badge&logo=zig&logoColor=008ecc)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=macos&logoColor=blue)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-3944bc?style=for-the-badge&logo=windows&logoColor=turquoise)&nbsp;
 &nbsp;
