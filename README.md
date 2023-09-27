@@ -44,6 +44,7 @@
 ![F#](https://img.shields.io/badge/F%23-41424c?style=for-the-badge&logo=Fsharp&logoColor=52b2bf)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-brown?style=for-the-badge&logo=scala&logoColor=red)&nbsp;
 ![Go](https://img.shields.io/badge/Go-add8e6?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
+![1337](https://img.shields.io/badge/1337-black?style=for-the-badge&logo=LeetCode&logoColor=green)&nbsp;
 ![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=Shell&logoColor=orange)&nbsp;
 
@@ -53,6 +54,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Oxygen](https://img.shields.io/badge/Oxygen-bebdb8?style=for-the-badge&logo=oxygen&logoColor=1134a6)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-f28500?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![Rexx](https://img.shields.io/badge/Rexx-3944bc?style=for-the-badge&logo=rexx&logoColor=turquoise)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-990f02?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Perl](https://img.shields.io/badge/Perl-gray?style=for-the-badge&logo=Perl&logoColor=purple)&nbsp;
 ![Julia](https://img.shields.io/badge/Julia-c8a2c8?style=for-the-badge&logo=julia&logoColor=e3242b)&nbsp;
