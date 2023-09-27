@@ -34,12 +34,13 @@
 
 #### Secondary Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-gray?style=for-the-badge&logo=r&logoColor=007ACC)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
 ![F#](https://img.shields.io/badge/F%23-41424c?style=for-the-badge&logo=Fsharp&logoColor=52b2bf)&nbsp;
+![Scala](https://img.shields.io/badge/Scala-brown?style=for-the-badge&logo=scala&logoColor=red)&nbsp;
 ![Go](https://img.shields.io/badge/Go-add8e6?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
 ![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=Shell&logoColor=orange)&nbsp;
@@ -48,6 +49,7 @@
 #### Studying in this moment:
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Oxygen](https://img.shields.io/badge/Oxygen-bebdb8?style=for-the-badge&logo=oxygen&logoColor=1134a6)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-f28500?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-990f02?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Perl](https://img.shields.io/badge/Perl-gray?style=for-the-badge&logo=Perl&logoColor=purple)&nbsp;
@@ -72,6 +74,7 @@
 ![Debian](https://img.shields.io/badge/Debian-fffdd0?style=for-the-badge&logo=debian&logoColor=d31a38)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/ArchLinux-3944bc?style=for-the-badge&logo=archlinux&logoColor=turquoise)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-131e3a?style=for-the-badge&logo=eclipse&logoColor=orange)&nbsp;
+![Zig](https://img.shields.io/badge/Zig-131e3a?style=for-the-badge&logo=e&logoColor=orange)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=macos&logoColor=blue)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-3944bc?style=for-the-badge&logo=windows&logoColor=turquoise)&nbsp;
 &nbsp;
