@@ -54,7 +54,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Oxygen](https://img.shields.io/badge/Oxygen-bebdb8?style=for-the-badge&logo=oxygen&logoColor=1134a6)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-f28500?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
-![Rexx](https://img.shields.io/badge/Rexx-3944bc?style=for-the-badge&logo=rexx&logoColor=turquoise)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-990f02?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Perl](https://img.shields.io/badge/Perl-gray?style=for-the-badge&logo=Perl&logoColor=purple)&nbsp;
 ![Julia](https://img.shields.io/badge/Julia-c8a2c8?style=for-the-badge&logo=julia&logoColor=e3242b)&nbsp;
