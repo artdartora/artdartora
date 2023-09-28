@@ -32,7 +32,6 @@
 ![Raspberry](https://img.shields.io/badge/Raspberry_Pi-fbfcf8?style=for-the-badge&logo=raspberrypi&logoColor=a91b0d)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-fbfcf8?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-8e82fe?style=for-the-badge&logo=webassembly&logoColor=white)&nbsp;
-![Lotus](https://img.shields.io/badge/Lotus_IDE-48494b?style=for-the-badge&logo=Lotusflower&logoColor=008ecc)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-gray?style=for-the-badge&logo=haskell&logoColor=purple)&nbsp;
 
 ## Secundarias
