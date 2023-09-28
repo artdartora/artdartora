@@ -43,7 +43,8 @@
 ![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
 ![F#](https://img.shields.io/badge/F%23-41424c?style=for-the-badge&logo=Fsharp&logoColor=52b2bf)&nbsp;
-![Scala](https://img.shields.io/badge/Scala-brown?style=for-the-badge&logo=scala&logoColor=red)&nbsp;
+![Scala](https://img.shields.io/badge/Scala-brown?style=for-the-badge&logo=Scala&logoColor=red)&nbsp;
+![React](https://img.shields.io/badge/React-48494b?style=for-the-badge&logo=react&logoColor=008ecc)&nbsp;
 ![Go](https://img.shields.io/badge/Go-add8e6?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
 ![1337](https://img.shields.io/badge/1337-black?style=for-the-badge&logo=LeetCode&logoColor=green)&nbsp;
 ![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
