@@ -1,18 +1,19 @@
-<p align="center">Arthur Roberto Dartora. <br><br> "Quanto mais silencioso você fica, mais você é capaz de ouvir".<br><br> Backend Developer</p>&nbsp;
+# ???
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fsociety1001&theme=radical&mode=weekly" />
+--> Backend Developer
 
- </div>
- 
- &nbsp;
- &nbsp;
+--> Fullstack
+
+--> Cybersecurity
+
+--> Hardware Compatibilization
+
+" 7RU571N6 UND3RGR0UND5 "
+
+" The more quiet you become, more you are able to hear "
 
 
-
-## My Skills
-
-#### Main Stack:
+## Primarias
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -30,10 +31,7 @@
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-8e82fe?style=for-the-badge&logo=webassembly&logoColor=white)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-gray?style=for-the-badge&logo=haskell&logoColor=purple)&nbsp;
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
+## Secundarias
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-gray?style=for-the-badge&logo=r&logoColor=007ACC)&nbsp;
@@ -47,9 +45,8 @@
 ![1337](https://img.shields.io/badge/1337-black?style=for-the-badge&logo=LeetCode&logoColor=green)&nbsp;
 ![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=shell&logoColor=orange)&nbsp;
-
-
-#### Studying in this moment:
+          
+## Estudando no momento:
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Oxygen](https://img.shields.io/badge/Oxygen-bebdb8?style=for-the-badge&logo=oxygen&logoColor=1134a6)&nbsp;
@@ -58,8 +55,7 @@
 ![Perl](https://img.shields.io/badge/Perl-gray?style=for-the-badge&logo=Perl&logoColor=purple)&nbsp;
 ![Julia](https://img.shields.io/badge/Julia-c8a2c8?style=for-the-badge&logo=julia&logoColor=e3242b)&nbsp;
 
-
-#### Databases:
+## Banco de Dados:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-fc6600?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -67,9 +63,7 @@
 ![Spring](https://img.shields.io/badge/Spring.io-239120?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 
-
-
-#### Workstation Tools:
+## Areas de Desenvolvimento:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=virtualstudiocode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)&nbsp;
@@ -80,10 +74,20 @@
 ![Zig](https://img.shields.io/badge/Zig-f28500?style=for-the-badge&logo=zig&logoColor=008ecc)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=macos&logoColor=blue)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-3944bc?style=for-the-badge&logo=windows&logoColor=turquoise)&nbsp;
+
+
 &nbsp;
 &nbsp;
 
-## Contacts:
+
+
+<div>
+<a href="https://github.com/fsociety1001">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsociety1001&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fsociety1001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Contatos:
 
 <div> 
 <a href="https://www.instagram.com/arthurdartora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
