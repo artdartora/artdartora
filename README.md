@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-48494b?style=for-the-badge&logo=react&logoColor=008ecc)&nbsp;
+![JQuery](https://img.shields.io/badge/JQuery-turquoise?style=for-the-badge&logo=jquery&logoColor=blue)&nbsp;
 ![Erlang](https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=900d09)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-9867c5?style=for-the-badge&logo=kotlin&logoColor=purple)&nbsp;
 ![C++](https://img.shields.io/badge/C++-fbfcf8?style=for-the-badge&logo=cplusplus&logoColor=green)&nbsp;
@@ -31,6 +32,7 @@
 ![Raspberry](https://img.shields.io/badge/Raspberry_Pi-fbfcf8?style=for-the-badge&logo=raspberrypi&logoColor=a91b0d)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-fbfcf8?style=for-the-badge&logo=lua&logoColor=000080)&nbsp;
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-8e82fe?style=for-the-badge&logo=webassembly&logoColor=white)&nbsp;
+![Lotus](https://img.shields.io/badge/Lotus_IDE-48494b?style=for-the-badge&logo=Lotusflower&logoColor=008ecc)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-gray?style=for-the-badge&logo=haskell&logoColor=purple)&nbsp;
 
 ## Secundarias
