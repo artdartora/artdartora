@@ -2,7 +2,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fsociety1001&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-fsociety1001.vercel.app/api/top-langs/?username=fsociety1001&show_icons=true&theme=radical&layout=compact" />
+
  </div>
  
  &nbsp;
@@ -46,7 +46,7 @@
 ![Go](https://img.shields.io/badge/Go-add8e6?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
 ![1337](https://img.shields.io/badge/1337-black?style=for-the-badge&logo=LeetCode&logoColor=green)&nbsp;
 ![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
-![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=Shell&logoColor=orange)&nbsp;
+![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=shell&logoColor=orange)&nbsp;
 
 
 #### Studying in this moment:
