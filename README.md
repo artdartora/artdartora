@@ -36,7 +36,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-gray?style=for-the-badge&logo=r&logoColor=007ACC)&nbsp;
-![Limbo](https://img.shields.io/badge/Limbo-6b6757?style=for-the-badge&logo=crystal&logoColor=black)&nbsp;
+![Crystal](https://img.shields.io/badge/Crystal-6b6757?style=for-the-badge&logo=crystal&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
