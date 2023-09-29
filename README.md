@@ -20,6 +20,7 @@
 ![JQuery](https://img.shields.io/badge/JQuery-turquoise?style=for-the-badge&logo=jquery&logoColor=blue)&nbsp;
 ![Erlang](https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=900d09)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-9867c5?style=for-the-badge&logo=kotlin&logoColor=purple)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-383838?style=for-the-badge&logo=gnubash&logoColor=b0fc38)&nbsp;
 ![C++](https://img.shields.io/badge/C++-fbfcf8?style=for-the-badge&logo=cplusplus&logoColor=green)&nbsp;
 ![Elixir](https://img.shields.io/badge/Elixir-67032f?style=for-the-badge&logo=elixir&logoColor=b65fcf)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -39,7 +40,6 @@
 ![Crystal](https://img.shields.io/badge/Crystal-6b6757?style=for-the-badge&logo=crystal&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-383838?style=for-the-badge&logo=gnubash&logoColor=0080fe)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
 ![F#](https://img.shields.io/badge/F%23-41424c?style=for-the-badge&logo=Fsharp&logoColor=52b2bf)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-brown?style=for-the-badge&logo=Scala&logoColor=red)&nbsp;
@@ -47,7 +47,7 @@
 ![Go](https://img.shields.io/badge/Go-add8e6?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
 ![1337](https://img.shields.io/badge/1337-black?style=for-the-badge&logo=LeetCode&logoColor=green)&nbsp;
 ![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
-![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=shell&logoColor=orange)&nbsp;
+
           
 ## Estudando no momento:
 
