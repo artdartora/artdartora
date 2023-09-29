@@ -8,8 +8,6 @@
 
 --> Hardware Compatibilization
 
-" 7RU571N6 UND3RGR0UND5 "
-
 " The more quiet you become, more you are able to hear "
 
 
