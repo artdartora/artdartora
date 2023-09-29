@@ -39,10 +39,11 @@
 ![Crystal](https://img.shields.io/badge/Crystal-6b6757?style=for-the-badge&logo=crystal&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-795c34?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-383838?style=for-the-badge&logo=gnubash&logoColor=0080fe)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-89cfef?style=for-the-badge&logo=dart&logoColor=0080fe)&nbsp;
 ![F#](https://img.shields.io/badge/F%23-41424c?style=for-the-badge&logo=Fsharp&logoColor=52b2bf)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-brown?style=for-the-badge&logo=Scala&logoColor=red)&nbsp;
-![React](https://img.shields.io/badge/React-48494b?style=for-the-badge&logo=react&logoColor=008ecc)&nbsp;
+![Haxe](https://img.shields.io/badge/Haxe-gold?style=for-the-badge&logo=Haxe&logoColor=brown)&nbsp;
 ![Go](https://img.shields.io/badge/Go-add8e6?style=for-the-badge&logo=go&logoColor=0083cc)&nbsp;
 ![1337](https://img.shields.io/badge/1337-black?style=for-the-badge&logo=LeetCode&logoColor=green)&nbsp;
 ![Clojure](https://img.shields.io/badge/Clojure-88807b?style=for-the-badge&logo=clojure&logoColor=03ac13)&nbsp;
@@ -52,6 +53,7 @@
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Oxygen](https://img.shields.io/badge/Oxygen-bebdb8?style=for-the-badge&logo=oxygen&logoColor=1134a6)&nbsp;
+![Byte](https://img.shields.io/badge/Byte-purple?style=for-the-badge&logo=byte&logoColor=gold)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-f28500?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-990f02?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Perl](https://img.shields.io/badge/Perl-gray?style=for-the-badge&logo=Perl&logoColor=purple)&nbsp;
