@@ -24,7 +24,6 @@
 ![C++](https://img.shields.io/badge/C++-fbfcf8?style=for-the-badge&logo=cplusplus&logoColor=green)&nbsp;
 ![Elixir](https://img.shields.io/badge/Elixir-67032f?style=for-the-badge&logo=elixir&logoColor=b65fcf)&nbsp;
 ![C](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring.io-239120?style=for-the-badge&logo=amoeba&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-4683b7?style=for-the-badge&logo=css3&logoColor=87cdee)&nbsp;
 ![FORTRAN](https://img.shields.io/badge/FORTRAN-9867c5?style=for-the-badge&logo=fortran&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-808045?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
