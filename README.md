@@ -75,6 +75,7 @@
 ![Debian](https://img.shields.io/badge/Debian-fffdd0?style=for-the-badge&logo=debian&logoColor=d31a38)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/ArchLinux-3944bc?style=for-the-badge&logo=archlinux&logoColor=turquoise)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-131e3a?style=for-the-badge&logo=eclipse&logoColor=orange)&nbsp;
+![Lubuntu](https://img.shields.io/badge/Lubuntu-003151?style=for-the-badge&logo=lubuntu&logoColor=9867c5)&nbsp;
 ![Discord](https://img.shields.io/badge/Discord-4285F4?style=for-the-badge&logo=discord&logoColor=000080)&nbsp;
 ![Zig](https://img.shields.io/badge/Zig-f28500?style=for-the-badge&logo=zig&logoColor=008ecc)&nbsp;
 ![MacOS](https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=macos&logoColor=blue)&nbsp;
