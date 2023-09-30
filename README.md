@@ -64,6 +64,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-fc6600?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-000080?style=for-the-badge&logo=mysql&logoColor=orange)&nbsp;
+![Apache](https://img.shields.io/badge/Apache-3e424b?style=for-the-badge&logo=apache&logoColor=e4cd05)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring.io-239120?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 
