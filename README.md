@@ -39,9 +39,6 @@
 
 
 <div>
-<a href="https://github.com/fsociety1001">
-<img loading="active" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsociety1001&layout=compact&langs_count=7&theme=dracula"/>
-
 </div>
 
 ## Contatos:
