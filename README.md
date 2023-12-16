@@ -8,7 +8,7 @@
 
 --> Hardware Compatibilization
 
-" The more quiet you become, more you are able to hear "
+" The quieter you become, the more you are able to hear "
 
 
 ## Conhecimento Primario
