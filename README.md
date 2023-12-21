@@ -2,7 +2,7 @@
 
 <h1>" The quieter you become, the more you are able to hear. "</h1>
 
-<h2>--> Fullstack <---</h2>
+<h2> 🧠  Fullstack  👨‍💻 </h2>
 
 ## Conhecimento Primario :
 
