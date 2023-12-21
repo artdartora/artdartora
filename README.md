@@ -37,7 +37,9 @@
 
 ## Extras
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="80" width="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="80" width="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="80" width="80"/>
+          
+
 
 &nbsp;
 &nbsp;
