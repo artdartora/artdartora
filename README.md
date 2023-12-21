@@ -31,7 +31,7 @@
           
  ## Cibersegurança e Ataques    
 
-<img src="https://icongr.am/simple/archlinux.svg?size=92&color=007bff&colored=false" height="60" width="60"/> ‎ ‎ ‎ <img src="https://icongr.am/simple/cisco.svg?size=70&color=00affa&colored=false" height="60" width="60"/> ‎ ‎ ‎ <img src="https://icongr.am/simple/tor.svg?size=75&color=600566&colored=false" height="60" width="60"/>
+<img src="https://icongr.am/simple/archlinux.svg?size=92&color=007bff&colored=false" height="60" width="60"/> ‎ ‎ ‎ <img src="https://icongr.am/simple/cisco.svg?size=70&color=00affa&colored=false" height="60" width="60"/> ‎ ‎ ‎ <img src="https://icongr.am/simple/tor.svg?size=75&color=600566&colored=false" height="60" width="60"/><img src="https://icons8.com/icon/101665/kali-linux" height="60" width="60"/>
 
 ## Extras
 
