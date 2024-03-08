@@ -1,7 +1,7 @@
 
 <h1 align="center">Waddup! Arthur R. Murray here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;UI+/+UX+Designer;Full+Stack+Web+Developer;Discliplined+Learner&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -45,10 +45,11 @@
 
 
 
-<div> 
-<a href="https://www.instagram.com/dartorarthur" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="omunite215" /></p>
+## 
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murraythur&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="murraythur" /></p><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=murraythur&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+
 
 
