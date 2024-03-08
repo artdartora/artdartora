@@ -48,6 +48,11 @@
 ## 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murraythur&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="murraythur" /></p><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=murraythur&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{murraythur}/count.svg" /></p> 
+<br></div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 
