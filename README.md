@@ -1,4 +1,3 @@
-
 <h1 align="center">Waddup! Arthur R. Murray here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;UI+/+UX+Designer;Full+Stack+Web+Developer;Discliplined+Learner&center=true&width=500&height=50"></a>
