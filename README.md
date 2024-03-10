@@ -38,7 +38,31 @@
 
 <h3><li><a>Hack  <img align="center"src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Hack_%28programming_language%29_logo.svg" height="60" width="60"/></a></li></h3>
 
-‎  ‎ ‎‎ <img  ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://icongr.am/simple/webassembly.svg?size=75&color=488eb1&colored=false" height="55" width="55"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original-wordmark.svg" height="60" width="60" />
+<h3><li><a>C  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="58" width="58" /></a></li></h3>
+
+<h3><li><a>C++  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" width="60" /></a></li></h3>
+
+<h3><li><a>C#  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60" /></a></li></h3>
+
+<h3><li><a>Kraken  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/krakenjs/krakenjs-original-wordmark.svg" height="60" width="60"/></a></li></h3>
+
+<h3><li><a>Elixir  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" height="60" width="60"/></a></li></h3>
+
+<h3><li><a>PHP  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60" /></a></li></h3>
+
+<h3><li><a>Web Assembly  <img align="center"src="https://icongr.am/simple/webassembly.svg?size=75&color=488eb1&colored=false" height="47" width="47"/></a></li></h3>
+
+<h3><li><a>Arduino  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="60" width="60" /></a></li></h3>
+
+<h3><li><a>Raspberry  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" width="60" /></a></li></h3>
+
+<h3><li><a>Lua  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="60" width="60" />‎</a></li></h3>
+
+<h3><li><a>Haskell  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="60" width="60" /></a></li></h3>
+
+<h3><li><a>Processing  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original-wordmark.svg" height="60" width="60" /></li></h3>
+
+
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="65" width="65" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="55" width="55"/> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/elm-original.svg?size=92&color=c8ff00" height="58" width="58"/>
     
