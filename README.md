@@ -8,7 +8,7 @@
 
 
 
-<h2> 𝙿𝚛𝚒𝚖𝚊𝚛𝚢 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 : </h2>
+<h2> 𝙼𝚊𝚒𝚗 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 : </h2>
 
 <h3><li><a>Python<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" /></a></li></h3>
 
@@ -113,7 +113,7 @@
 <h3><li><a>Wolfram  <img align="center" src="https://icongr.am/simple/wolframlanguage.svg?size=72&color=8a0000&colored=false" height="60" width="60"/></li></h3>
 
 
-<h2> Containers : </h2>
+<h2> 𝙲𝚘𝚗𝚝𝚊𝚒𝚗𝚎𝚛𝚜 : </h2>
 
 <h3><li><a>Kubernetes  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="60" width="60"/></li></h3>
 
@@ -171,7 +171,7 @@
 
 
 
-<h2> OSs / Distros : </h2>    
+<h2> 𝙾𝚂𝚜 / 𝙳𝚒𝚜𝚝𝚛𝚘𝚜 : </h2>    
 
 <h3><li><a>Ubuntu  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="60" width="60"/></li></h3>
 
