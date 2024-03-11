@@ -119,6 +119,8 @@
 
 <h3><li><a>Docker  <img align="center" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=92&color=761919" height="60" width="60"/></li></h3>
 
+<h3><li><a>Wireshark  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="60" width="60"/></li></h3>
+
 
           
 <h2> 𝙳𝚊𝚝𝚊 𝙱𝚊𝚜𝚎𝚜 : <h2>
@@ -187,11 +189,29 @@
 
 <h3><li><a>Windows 11  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="60" width="60" /></h3>
 
+<h3><li><a>Lubuntu  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Lubuntu_logo_only.svg" height="60" width="60" /></h3>
+
+
 <h3><li><a>Red Hat Linux  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" width="60"/></h3>
+
+<h3><li><a>ParrotOS  <img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" height="60" width="60"/></h3>
+
 
 <h3><li><a>Arch Linux  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="55" width="55"/></h3>
 
+<h3><li><a>Kali Linux  <img align="center"src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="80" width="80"/></h3>
+ 
+<h3><li><a>Manjaro Linux  <img align="center"src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" height="50" width="50"/></h3>
+
+<h3><li><a>Slackware  <img align="center"src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" height="60" width="60"/></h3>
+
+<h3><li><a>Slax  <img align="center"src="https://upload.wikimedia.org/wikipedia/commons/b/b1/SlaxLogo2.png" height="60" width="60"/></h3>
+ 
+<h3><li><a>Xubuntu  <img align="center"src="https://upload.wikimedia.org/wikipedia/commons/a/af/Xubuntu_logo.svg" height="65" width="65"/></h3>
+
 <h3><li><a>Gentoo Linux  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" height="60" width="60"/></h3>
+
+<h3><li><a>Kubuntu  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Kubuntu_logo.svg" height="60" width="60"/></h3>
 
 <h3><li><a>Android  <img align="center"src="https://icongr.am/devicon/android-original-wordmark.svg?size=92&color=761919" height="60" width="60"/></h3>
 
