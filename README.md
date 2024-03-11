@@ -129,11 +129,52 @@
 
 <h3><li><a>MySQL  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60" /></li></h3>
 
-  <img mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocksdb/rocksdb-plain.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=92&color=761919" height="60" width="60"/>
+<h3><li><a>Apache  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="60" width="60" /></li></h3>
+
+<h3><li><a>Magento  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="60" width="60"/></li></h3>
+
+<h3><li><a>SpringDB  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" width="60" /></li></h3>
+
+<h3><li><a>Neo4j  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" height="60" width="60" /></li></h3>
 
 <h2> 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙰𝚛𝚎𝚊𝚜 : </h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=92&color=761919" height="70" width="70" /> ‎ ‎ ‎  ‎ <img src="https://icongr.am/simple/zendframework.svg?size=72&color=34c200&colored=false" height="60" width="60"/> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" width="60" /> ‎ ‎ ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="60" /> ‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="60" width="60"/> ‎ ‎  ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="55" width="55"/> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/git-original.svg?size=92&color=761919" height="60" width ="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="60" width="60" /> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" width="60" />  ‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="60"/> ‎ ‎  ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" height="60" width="60" /> ‎ ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/android-original-wordmark.svg?size=92&color=761919" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/apple-original.svg?size=92&color=a6a6a6" height="60" width="60"/>‎‎ ‎ ‎
+<h3><li><a>Visual Studio Code  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" width="55" /></li></h3>
+
+<h3><li><a>Microsoft Visual Studio  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" width="60" />‎</li></h3>
+
+<h3><li><a>Node JS  <img align="center" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=92&color=761919" height="70" width="70" /></li></h3>
+
+<h3><li><a>Zend Framework  <img align="center" src="https://icongr.am/simple/zendframework.svg?size=72&color=34c200&colored=false" height="60" width="60"/></li></h3>
+
+<h3><li><a>Jest  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="55" width="55"/></li></h3>
+
+<h3><li><a>PHPStorm  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="60" width="60"/></h3>
+
+<h3><li><a>Zig  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg" height="60" width="60"/></h3>
+
+<h3><li><a>PyCharm  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="55" width="55"/></h3>
+          
+<img ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/git-original.svg?size=92&color=761919" height="60" width ="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="60" width="60" /> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" width="60" />  ‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="60"/> ‎ ‎  ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" height="60" width="60" /> ‎ ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/android-original-wordmark.svg?size=92&color=761919" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/apple-original.svg?size=92&color=a6a6a6" height="60" width="60"/>‎‎ ‎ ‎
+
+<h2> OSs / Distros : </h2>    
+
+<h3><li><a>Ubuntu  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="60" width="60"/></li></h3>
+
+<h3><li><a>Linux  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="60" /></li></h3>
+          
+<h3><li><a>Fedora Linux  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="60" width="60"/>‎</li></h3>
+
+<h3><li><a>Rocky Linux  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" height="60" width="60"/>‎</li></h3>     
+          
+<h3><li><a>OpenSUSE  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opensuse/opensuse-original-wordmark.svg" height="60" width="60"/></li></h3>
+
+<h3><li><a>Debian  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="55" width="55"/></h3>
+
+<h3><li><a>Red Hat Linux  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" width="60"/></h3>
+
+<h3><li><a>Arch Linux  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="55" width="55"/></h3>
+
           
 
 &nbsp;
