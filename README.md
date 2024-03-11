@@ -22,6 +22,8 @@
 
 <h3><li><a>CSS  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" width="55" /></a></li></h3>
 
+<h3><li><a>Angular  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55" width="55"/></li></h3>
+
 <h3><li><a>React  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" /></a></li></h3>
 
 <h3><li><a>Electron  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="65" width="65" /></li></h3>
@@ -33,6 +35,8 @@
 <h3><li><a>Kotlin  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" width="60" /></a></li></h3>
 
 <h3><li><a>Ruby  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="55" width="55" /></a></li></h3>
+
+<h3><li><a>Rails  <img align="center" src="https://icongr.am/simple/rails.svg?size=100&color=940000&colored=false" height="60" width="60"/></li></h3>
 
 <h3><li><a>ShellScript  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/></a></li></h3>
 
@@ -54,6 +58,8 @@
 
 <h3><li><a>PHP  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60" /></a></li></h3>
 
+<h3><li><a>Fortran  <img align="center"src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" height="55" width="55" /></li></h3>
+
 <h3><li><a>Web Assembly  <img align="center"src="https://icongr.am/simple/webassembly.svg?size=75&color=488eb1&colored=false" height="47" width="47"/></a></li></h3>
 
 <h3><li><a>Arduino  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="60" width="60" /></a></li></h3>
@@ -66,7 +72,7 @@
 
 <h3><li><a>Processing  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original-wordmark.svg" height="60" width="60" /></li></h3>
 
-<h3><li><a>R  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" width="60" /></li></h3>
+<h3><li><a>R  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="55" width="55" /></li></h3>
 
 <h3><li><a>MATLAB  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" width="60"/></li></h3>
 
@@ -82,27 +88,53 @@
 
 <h3><li><a>Scala  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" height="55" width="55"/></li></h3>
 
+<h3><li><a>Haxe  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="50" width="50" /></li></h3>
 
-            <img 
-          
+<h3><li><a>Swift  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="55" width="55" /></li></h3>
 
-‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="55" width="55"/> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/elm-original.svg?size=92&color=c8ff00" height="58" width="58"/>
-    
+<h3><li><a>Golang  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="65" width="65" /></li></h3>
+
+<h3><li><a>Flutter  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" width="60"/></li></h3>
+
+<h3><li><a>Clojure  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="57" width="57" /></li></h3>
+
+<h3><li><a>Vim  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" width="60" /></li></h3>
+
+<h3><li><a>VueJS  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" width="60"/></li></h3>
+
+<h3><li><a>Julia  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"height="60" width="60"/></li></h3>
+
+<h3><li><a>Vuetify  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="55" width="55"/></li></h3>
+
+<h3><li><a>Elm  <img align="center" src="https://icongr.am/devicon/elm-original.svg?size=92&color=c8ff00" height="50" width="50"/></li></h3>
+
+<h3><li><a>Jasmine  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg" height="60" width="60"/></li></h3>
+
+<h3><li><a>Wolfram  <img align="center" src="https://icongr.am/simple/wolframlanguage.svg?size=72&color=8a0000&colored=false" height="60" width="60"/></li></h3>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://icongr.am/simple/wolframlanguage.svg?size=72&color=8a0000&colored=false" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://icongr.am/simple/rails.svg?size=100&color=940000&colored=false" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/protractor/protractor-plain-wordmark.svg" height="80" width="80"/>
+<h2> Containers : </h2>
+
+<h3><li><a>Kubernetes  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="60" width="60"/></li></h3>
+
+<h3><li><a>Docker  <img align="center" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=92&color=761919" height="60" width="60"/></li></h3>
+
+
           
 <h2> 𝙳𝚊𝚝𝚊 𝙱𝚊𝚜𝚎𝚜 : <h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocksdb/rocksdb-plain.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=92&color=761919" height="60" width="60"/>
+<h3><li><a>MongoDB  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60" /></li></h3>
+
+<h3><li><a>PostgreSQL  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60" /></li></h3>
+
+<h3><li><a>MySQL  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60" /></li></h3>
+
+  <img mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocksdb/rocksdb-plain.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/tomcat-original-wordmark.svg?size=92&color=761919" height="60" width="60"/>
 
 <h2> 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙰𝚛𝚎𝚊𝚜 : </h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=92&color=761919" height="70" width="70" /> ‎ ‎ ‎  ‎ <img src="https://icongr.am/simple/zendframework.svg?size=72&color=34c200&colored=false" height="60" width="60"/> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" width="60" /> ‎ ‎ ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="60" /> ‎ ‎ <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=92&color=761919" height="60" width="60"/> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="60" width="60"/> ‎ ‎  ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="55" width="55"/> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/git-original.svg?size=92&color=761919" height="60" width ="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="60" width="60" /> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" width="60" />  ‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="60"/> ‎ ‎  ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" height="60" width="60" /> ‎ ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/android-original-wordmark.svg?size=92&color=761919" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/apple-original.svg?size=92&color=a6a6a6" height="60" width="60"/>‎‎ ‎ ‎
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=92&color=761919" height="70" width="70" /> ‎ ‎ ‎  ‎ <img src="https://icongr.am/simple/zendframework.svg?size=72&color=34c200&colored=false" height="60" width="60"/> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" width="60" /> ‎ ‎ ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="60" /> ‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="60" width="60"/> ‎ ‎  ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" height="60" width="60" /> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" width="60" /> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="55" width="55"/> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/git-original.svg?size=92&color=761919" height="60" width ="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="60" width="60" /> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" width="60" />  ‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="60"/> ‎ ‎  ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" height="60" width="60" /> ‎ ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/android-original-wordmark.svg?size=92&color=761919" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/apple-original.svg?size=92&color=a6a6a6" height="60" width="60"/>‎‎ ‎ ‎
           
-<h2> 𝙴𝚡𝚝𝚛𝚊𝚜 : </h2>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" width="60"/> ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="80" width="80" />‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" height="75" width="75"/>‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="75" width="75"/>‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" height="80" width="80"/>‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="60" width="60"/>
 
 &nbsp;
 &nbsp;
