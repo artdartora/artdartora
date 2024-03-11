@@ -154,8 +154,20 @@
 <h3><li><a>Zig  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg" height="60" width="60"/></h3>
 
 <h3><li><a>PyCharm  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="55" width="55"/></h3>
-          
-<img ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60"/> ‎  ‎ ‎ ‎ <img src="https://icongr.am/devicon/git-original.svg?size=92&color=761919" height="60" width ="60"/> ‎  ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="60" width="60" /> ‎ ‎ ‎  ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" width="60" />  ‎ ‎ ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="60"/> ‎ ‎  ‎ ‎ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" height="60" width="60" /> ‎ ‎ ‎ ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/android-original-wordmark.svg?size=92&color=761919" height="60" width="60"/>  ‎ ‎ ‎ ‎ <img src="https://icongr.am/devicon/apple-original.svg?size=92&color=a6a6a6" height="60" width="60"/>‎‎ ‎ ‎
+
+<h3><li><a>Gitlab  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="60" width="60"/></h3>
+
+<h3><li><a>Git  <img align="center"  src="https://icongr.am/devicon/git-original.svg?size=92&color=761919" height="60" width ="60"/></h3>
+
+<h3><li><a>Github  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" width ="60"/></h3>
+
+<h3><li><a>MS-DOS  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="60" width="60" /></h3>
+
+<h3><li><a>Jupyter  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="60"/></h3>
+
+<h3><li><a>EmbeddedC  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" height="60" width="60" /> </h3>
+
+
 
 <h2> OSs / Distros : </h2>    
 
@@ -171,10 +183,19 @@
 
 <h3><li><a>Debian  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="55" width="55"/></h3>
 
+<h3><li><a>Windows 8-10  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" width="60" /></h3>
+
+<h3><li><a>Windows 11  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="60" width="60" /></h3>
+
 <h3><li><a>Red Hat Linux  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" width="60"/></h3>
 
 <h3><li><a>Arch Linux  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="55" width="55"/></h3>
 
+<h3><li><a>Gentoo Linux  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" height="60" width="60"/></h3>
+
+<h3><li><a>Android  <img align="center"src="https://icongr.am/devicon/android-original-wordmark.svg?size=92&color=761919" height="60" width="60"/></h3>
+
+<h3><li><a>Apple  <img align="center" src="https://icongr.am/devicon/apple-original.svg?size=92&color=a6a6a6" height="60" width="60"/></h3>
           
 
 &nbsp;
