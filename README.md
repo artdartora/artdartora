@@ -196,8 +196,9 @@
 
 <h3><li><a>ParrotOS  <img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" height="60" width="60"/></h3>
 
-
 <h3><li><a>Arch Linux  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="55" width="55"/></h3>
+
+<h3><li><a>Arch Linux  <img align="center"src="https://upload.wikimedia.org/wikipedia/commons/3/3f/BlackArch_logo.png" height="55" width="55"/></h3>
 
 <h3><li><a>Kali Linux  <img align="center"src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="80" width="80"/></h3>
  
