@@ -3,7 +3,7 @@
 <h1 align="center"&color=00BFFF>𝙷𝚎𝚕𝚕𝚘, 𝚆𝚘𝚛𝚕𝚍! 𝙸'𝚖 𝙰𝚛𝚝𝚑𝚞𝚛 𝚁. 𝚍𝚒 𝙼𝚞𝚛𝚛𝚊𝚢!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">   
  <p align="center"> " 𝚃𝚑𝚎 𝚚𝚞𝚒𝚎𝚝𝚎𝚛 𝚢𝚘𝚞 𝚋𝚎𝚌𝚘𝚖𝚎, 𝚝𝚑𝚎 𝚖𝚘𝚛𝚎 𝚢𝚘𝚞 𝚊𝚛𝚎 𝚊𝚋𝚕𝚎 𝚝𝚘 𝚑𝚎𝚊𝚛 "
 
- <a href="https://github.com/murraythur/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;UI+/+UX+Designer;Full+Stack+Web+Developer;Discliplined+Learner&center=true&width=500&height=50"></a>
+ <a href="https://github.com/murraythur/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;UI+/+UX+Designer;Full+Stack+Web+Developer;Cyber+Technology;Robotics;Discliplined+Learner&center=true&width=500&height=50"></a>
 </p>
 
 
