@@ -6,9 +6,11 @@
  <a href="https://github.com/murraythur/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;UI+/+UX+Designer;Full+Stack+Web+Developer;Cyber+Technology;Robotics;Discliplined+Learner&center=true&width=500&height=50"></a>
 </p>
 
+</p><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=murraythur&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murraythur&text_color=000000&bg_color=ffffff&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="murraythur" />
 
-<h2> 𝙼𝚊𝚒𝚗 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 : </h2>
+<h2> 𝙼𝚊𝚒𝚗 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 🧠 : </h2>
 
 <h3><li><a>Python<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" /></a></li></h3>
 
@@ -113,7 +115,7 @@
 <h3><li><a>Wolfram  <img align="center" src="https://icongr.am/simple/wolframlanguage.svg?size=72&color=8a0000&colored=false" height="60" width="60"/></li></h3>
 
 
-<h2> 𝙲𝚘𝚗𝚝𝚊𝚒𝚗𝚎𝚛𝚜 : </h2>
+<h2> 𝙲𝚘𝚗𝚝𝚊𝚒𝚗𝚎𝚛𝚜 📦 : </h2>
 
 <h3><li><a>Kubernetes  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="60" width="60"/></li></h3>
 
@@ -123,7 +125,7 @@
 
 
           
-<h2> 𝙳𝚊𝚝𝚊 𝙱𝚊𝚜𝚎𝚜 : <h2>
+<h2> 𝙳𝚊𝚝𝚊 𝙱𝚊𝚜𝚎𝚜 🛢️ : <h2>
 
 <h3><li><a>MongoDB  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60" /></li></h3>
 
@@ -139,7 +141,7 @@
 
 <h3><li><a>Neo4j  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" height="60" width="60" /></li></h3>
 
-<h2> 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙰𝚛𝚎𝚊𝚜 : </h2>
+<h2> 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙰𝚛𝚎𝚊𝚜 🛠️ : </h2>
 
 <h3><li><a>Visual Studio Code  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" width="55" /></li></h3>
 
@@ -170,8 +172,7 @@
 <h3><li><a>EmbeddedC  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" height="60" width="60" /> </h3>
 
 
-
-<h2> 𝙾𝚂𝚜 / 𝙳𝚒𝚜𝚝𝚛𝚘𝚜 : </h2>    
+<h2> 𝙾𝚂𝚜 / 𝙳𝚒𝚜𝚝𝚛𝚘𝚜 ⚙️🖥️ : </h2>    
 
 <h3><li><a>Ubuntu  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="60" width="60"/></li></h3>
 
@@ -226,14 +227,13 @@
 <div>
 </div>
 
-<h2>𝚂𝚘𝚌𝚒𝚊𝚕 𝙰𝚙𝚙(𝚜) : </h2>
+<h2>𝚂𝚘𝚌𝚒𝚊𝚕 𝙰𝚙𝚙(𝚜) 📱 : </h2>
 
 <a href="https://www.instagram.com/dartorarthur/">
     <img align="left" alt="Arthur R. di Murray | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murraythur&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="murraythur" /></p><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=murraythur&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<br>
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
@@ -241,6 +241,7 @@
  <img align="center" src="https://profile-counter.glitch.me/{murraythur}/count.svg" />
 </p> 
 <br></div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 
